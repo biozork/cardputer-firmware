@@ -1,0 +1,16 @@
+{
+  "name": "Cardputer Loader",
+  "version": "0.5.5",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "firmware-0.5.5-be7d90e.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
